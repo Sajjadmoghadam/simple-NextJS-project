@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+
+
+}
+.main-container{
+    width: 90%;
+    margin: 0 auto;
+}
